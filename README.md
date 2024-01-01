@@ -3,9 +3,6 @@ Frontent dasturchi. Frontent dasturlashni 2022-yil kuzdan boshlagan. Hozirda Jav
 
 [💼 Portfolio](https://www) | [🗨️ Telegram](https://t.me/akramrakhim) | 📧 akramrakhimov5@gmail.com
 
-- 🌱 Hozirda **HTML, CSS, JavaScript, Sass** ni o'rganyapman.
-
-- 📫 Email: **Akramrakimov5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
