@@ -1,7 +1,7 @@
 # Akram Rakhim 
 Frontent dasturchi. Frontent dasturlashni 2022-yil kuzdan boshlagan. Hozirda JavaScriptni chuqurroq o'rganib va uning React kutubxonasida real loyihalarda o'z bilimlarini mustahkamlamoqchi bo'lgan dasturchi.
 
-[💼 Portfolio](https://www) | [🗨️ Telegram](https://t.me/akramrakhim) | [📧 Email](mailto:akramrakhimov5@gmail.com)
+[💼 Portfolio](https://www) | [🗨️ Telegram](https://t.me/akramrakhim) | 📧 akramrakhimov5@gmail.com
 
 - 🌱 Hozirda **HTML, CSS, JavaScript, Sass** ni o'rganyapman.
 
